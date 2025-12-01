@@ -677,7 +677,7 @@ const Dashboard = () => {
               <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
                 <Pill className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="font-bold text-lg">MedTracker</span>
+              <span className="font-bold text-lg">MediFlow</span>
             </Link>
           )}
           <Button 
