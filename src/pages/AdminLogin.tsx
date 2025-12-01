@@ -136,7 +136,7 @@ const AdminLogin = () => {
             <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
               <Pill className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-bold">MedTracker</span>
+            <span className="text-xl font-bold">MediFlow</span>
           </Link>
         </div>
       </nav>
