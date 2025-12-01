@@ -132,7 +132,7 @@ const Auth = () => {
             <CardDescription>
               {isSignup 
                 ? "Start tracking your medications today" 
-                : "Sign in to your MedTracker account"}
+                : "Sign in to your MediFlow account"}
             </CardDescription>
           </CardHeader>
           <CardContent>
